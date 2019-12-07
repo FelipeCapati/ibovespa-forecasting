@@ -2,7 +2,7 @@
 
 ### Abstract ###
 
-###### TODO: ESCREVER AQUI O ABSTRACT EM INGLES ######
+###### This project aims to model the behavior of the IBOVESPA index using a hybrid system based on ARIMA and Deep Learning. ARIMA is a statistical technique for modeling univariate systems that do not have trend and have a constant variation, in short is a technique capable of design the linear behavior of the study function. You can model the index as a composition of a linear signal and a nonlinear signal. ARIMA (tool used time series analysis) is responsible for making an analysis of the linear part of the model and, computational models/mathematical/statistical factors such as SVM  and ANN are responsible by predicting the residual ARIMA formed by the nonlinear part of the data and the system error. ######
 
 Keywords — ARIMA, Deep Learning, IBOVESPA.
 
